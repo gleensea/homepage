@@ -33,8 +33,8 @@
 
 ## SITE
 
-[github](https://gleensea.github.io/test/)<br>
-[netlify](https://chipper-paprenjak-d860f5.netlify.app)
+[github](https://gleensea.github.io/homepage/)<br>
+[netlify](https://lustrous-bunny-4b5474.netlify.app)
 
 ![1](https://user-images.githubusercontent.com/112832681/206959443-268bc872-a37b-4be2-8537-7d8a543b2724.PNG)
 ![2](https://user-images.githubusercontent.com/112832681/206959449-feae68de-2da7-439c-a1e6-43270ddaa803.PNG)
